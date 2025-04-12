@@ -1,0 +1,4 @@
+openai
+azure-cognitiveservices-speech
+flask
+python-dotenv
